@@ -1,0 +1,15 @@
+.icon {
+    display: inline-block; 
+    vertical-align: middle;
+    color: inherit;
+  }
+  
+  .icon.checkmark::before {
+    content: '\2713'; 
+  }
+  
+  .icon.delete::before {
+    content: '\1F5D1'; 
+  }
+  
+  

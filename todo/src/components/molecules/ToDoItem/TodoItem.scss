@@ -1,0 +1,16 @@
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #8a1084;
+}
+
+.todo-title {
+  flex: 1;
+  margin-right: 16px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
